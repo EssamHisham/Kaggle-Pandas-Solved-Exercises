@@ -34,4 +34,4 @@ To explore the solutions, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/essamhisham/Kaggle-Pandas-Exercises-Solutions.git
+   git clone https://github.com/essamhisham/Kaggle-Pandas-Solved-Exercises.git
